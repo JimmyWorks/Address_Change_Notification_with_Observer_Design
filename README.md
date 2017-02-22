@@ -1,0 +1,2 @@
+# Address_Change_Notification_with_Observer_Design
+[ 12/1/2016 ] Simple C++ program implementing the observer design method through the use of an abstract observer as the base class and derived observer classes for each type of observer.  When the subject has an address change, all observer objects in the linked list are notified of the change and updates can be made in their respective systems.  The driver file for this program simply illustrates how this design method works.
